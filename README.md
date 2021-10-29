@@ -17,3 +17,23 @@
 ```
 
 # how to install
+
+```bash
+>> apt update
+>> apt full-upgrade
+>> apt install gawk
+>> apt install jq
+>> apt install which
+>> apt install whiptail
+>> apt install html2text
+>> apt install lynx curl
+>> apt install dialog
+>> apt install pv
+>> apt install git
+>> git clone https://github.com/COINTER-team/Ai
+>> cd Ai
+>> bash Ai.sh
+```
+            
+![asu](https://img.shields.io/badge/ME-Youtube-yellow)
+# [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
